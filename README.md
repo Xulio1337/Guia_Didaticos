@@ -7,7 +7,7 @@ Este repositório contém guias didáticos voltados à área de robótica. Eles 
 
 A ideia de desenvolver algo do tipo surgiu como um projeto de verão, com a intenção de apenas ajudar alguns amigos próximos a entenderem algumas matérias em que possuíam dificuldades, como **eletrônica, telecomunicação e programação**. O que começou como uma *"conversa em um buteco"* agora se tornou um projeto conceitual.  
 
-A escolha da linguagem, do design e das imagens de referência foi feita propositalmente para que o projeto tivesse uma abordagem mais dinâmica, menos formal e com uma identidade própria. Me inspirei em **Zines ao estilo punk** e **revistas retrô**, como **WIRED** e a estética **cyberpunk**. Ainda assim, tomei a liberdade de seguir um design individual.  
+A escolha da linguagem, do design e das imagens de referência foi feita propositalmente para que o projeto tivesse uma abordagem mais dinâmica, menos formal e com uma identidade própria. Me inspirei em **Zines ao estilo punk** e **revistas retrô**. Ainda assim, tomei a liberdade de seguir um design individual.  
 
 Meu objetivo final é criar um **guia de pelo menos 5 volumes**, abordando um conteúdo que ajude o leitor a se desenvolver e adquirir um bom conhecimento... Seja por **hobby, estudos acadêmicos** ou até para quem está **procurando uma área na tecnologia** que encaixe em seu perfil.🤠
 
